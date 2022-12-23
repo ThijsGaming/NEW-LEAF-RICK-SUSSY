@@ -7,3 +7,5 @@ HOW DO I USE THIS TEXTURE PACK?
 COPY AND PASTE THE TEXTURES IN THIS LOCATION:
 
 C:\Users\USERNAME\AppData\Roaming\Citra\load\textures\0004000000086400
+
+https://github.com/ThijsGaming/NEW-LEAF-RICK-SUSSY/blob/main/Screenshot_20221223_213618.png
